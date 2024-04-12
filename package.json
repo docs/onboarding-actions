@@ -1,5 +1,5 @@
 {
-  "name": "@lucascosti/hello2",
+  "name": "@docs/onboarding-actions",
   "version": "1.0.5",
   "description": "Everything is awesome.",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:lucascosti/node-hello2.git"
+    "url": "git@github.com:docs/onboarding-actions.git"
   },
-  "author": "Lucas Costi",
+  "author": "GitHub Docs",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lucascosti/node-hello2/issues"
+    "url": "https://github.com/docs/onboarding-actions/issues"
   },
-  "homepage": "https://github.com/lucascosti/node-hello2#readme",
+  "homepage": "https://github.com/docs/onboarding-actions#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^10.1.0",
