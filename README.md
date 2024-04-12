@@ -1,2 +1,3 @@
-# node-hello2
-Everything is awesome node demo 🎉
+# Simple Node app for Actions onboarding
+
+"Everything is awesome" in this Node demo!  🎉
