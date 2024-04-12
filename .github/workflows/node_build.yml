@@ -1,5 +1,5 @@
 # This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
 
 name: Node.js CI
 
@@ -14,7 +14,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node-version: [16.x, 18.x]
+        node-version: [18.x, 20.x]
 
     name: Build using ${{ matrix.node-version }} on ${{ matrix.os }}
     runs-on: ${{ matrix.os }}
