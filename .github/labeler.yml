@@ -1,4 +1,4 @@
-needs_fr:
-  - '**'      # index.php | src/main.php
-  - '.*'      # .gitignore
-  - '.*/**'   # .github/workflows/label.yml
+"Review required":
+  - '**'      # For files like `README.md` or `public/index.html`
+  - '.*'      # For files like `.gitignore`
+  - '.*/**'   # For files like `.github/workflows/node_build.yml`
