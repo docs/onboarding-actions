@@ -19,7 +19,7 @@
   "homepage": "https://github.com/docs/onboarding-actions#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^10.1.0",
+    "mocha": "^10.8.2",
     "node-fetch": "^2.6.7"
   },
   "dependencies": {
